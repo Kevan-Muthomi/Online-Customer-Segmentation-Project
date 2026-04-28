@@ -1545,7 +1545,7 @@ CustomerID,Recency,Frequency,Monetary,Cluster,Segment
 14451.0,60,2,662.59,0,Casual Customers
 14452.0,11,2,264.44,0,Casual Customers
 14453.0,190,1,119.93,1,Lost Customers
-14456.0,5,9,3062.4,0,Casual Customers
+14456.0,5,10,3062.4,0,Casual Customers
 14457.0,311,1,113.64,1,Lost Customers
 14459.0,155,1,1837.92,1,Lost Customers
 14460.0,110,3,434.34,0,Casual Customers
